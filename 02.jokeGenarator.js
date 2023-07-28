@@ -1,5 +1,5 @@
 const jokeli = document.getElementById('jokee');
-const jokebtn = document.getElementById('jokeb');
+const jokebtn = document.getElementById('jokek');
 
 const generateJoke = () => {
     const xhr = new XMLHttpRequest();
